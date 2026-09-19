@@ -1,5 +1,5 @@
 variable "prefix" {
-  description = "Prefix used for naming Azure resources"
+  description = "Prefix used for naming existing Azure resources"
   type        = string
   default     = "tfvmex"
 }
